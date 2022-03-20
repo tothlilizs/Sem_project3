@@ -12,7 +12,7 @@ This project was created by our group:
 * [Joseph Carroll](https://github.com/carrolljody)
 * [Lili Zsuzsanna Tóth](https://github.com/tothlilizs)
 
-Project's documentation can be found [here](https://drive.google.com/file/d/1bP2UGllpGGavmNKczyx5WP2UoG-5flRf/view?usp=sharing).
+The project's documentation can be found [here](https://drive.google.com/file/d/1bP2UGllpGGavmNKczyx5WP2UoG-5flRf/view?usp=sharing).
 ## Author Reference
 Base code DatabaseHelper.java and DataMapper.java courtesy of [Ole Ildsgaard Hougaard](https://github.com/olehougaard).
 
