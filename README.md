@@ -1,5 +1,5 @@
 # Student Incubator
-This is our 3rd semester project created in autumn of 2021 for the Software Engineering course at [VIA](https://via.dk/) university college, campus Horsens, DK. 
+This is our 3<sup>rd</sup> semester project created in autumn of 2021 for the Software Engineering course at [VIA](https://via.dk/) university college, campus Horsens, DK. 
 
 ## Description
 The project is a website based text-based game. The goal is to create an avatar that is a university student and making sure that they stay alive throughout the semester.  
